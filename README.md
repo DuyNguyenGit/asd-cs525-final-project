@@ -132,3 +132,85 @@ a) You should have three categories of products, books and videotapes.
 b) Customers can pay by creditCard, or online (PayPal).
 c) You should track the number of successful sales to each customer, and have a category of premium customer (more than 10 purchases).
 d) Premium customers get a 10% discount on all books.
+
+## Outcome
+
+<img width="751" alt="Screenshot 2024-10-06 at 3 20 47 PM" src="https://github.com/user-attachments/assets/24ff6ebf-b648-4e6c-92d6-65c7ef15a8d5">
+
+### Coding High Level Design
+
+<img width="662" alt="image" src="https://github.com/user-attachments/assets/071ecbb1-2182-48ae-b642-4edbc541f26d">
+
+### Class Diagram
+
+<img width="755" alt="image" src="https://github.com/user-attachments/assets/9da7fcbc-44a3-4235-b0ab-da896c00f06f">
+
+### Class Diagram - Core Framework
+
+<img width="368" alt="image" src="https://github.com/user-attachments/assets/f80fbabc-e49e-46ce-b80c-19f41a12bac8">
+
+### Class Diagram - Data persistent
+
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/9f075a97-4aff-427b-a39c-ff8c319377c7">
+
+### Class Diagram - Banking system
+
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/c372e4d4-a7fc-48f8-8e69-b8f83bad777a">
+
+### Class Diagram - Credit Card system
+
+<img width="579" alt="image" src="https://github.com/user-attachments/assets/0d56f103-7977-4935-bf22-41131adeb3c4">
+
+### Sequence Diagram - Create banking account 
+
+<img width="961" alt="image" src="https://github.com/user-attachments/assets/96cc39e6-7ec6-47c7-bd05-5b1d73db3541">
+
+### Sequence Diagram - Deposit use case 
+
+<img width="962" alt="image" src="https://github.com/user-attachments/assets/b6fe0c45-7140-4593-9f86-9530c429049d">
+
+### Sequence Diagram - Withdraw use case 
+
+<img width="961" alt="image" src="https://github.com/user-attachments/assets/c805e528-10e4-4eba-b7c5-8f67cf857e36">
+
+### Sequence Diagram - Add Interest use case 
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/ef998a46-e1c4-47d6-a96a-3eb66c589fc8">
+
+
+<img width="440" alt="Screenshot 2024-10-06 at 3 31 42 PM" src="https://github.com/user-attachments/assets/029443cb-71d5-4509-8aa1-3d7bf0591d5d">
+
+### Command Pattern
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/1669d0c8-d4bb-4ab8-ac10-8a44f7006dc9">
+
+### Rules Pattern
+
+<img width="914" alt="image" src="https://github.com/user-attachments/assets/6cfa2df5-6295-4843-bd0a-8d9956af2b77">
+
+### Singleton Pattern
+
+![image](https://github.com/user-attachments/assets/3c9513f1-d52a-40af-85dd-47333a2592b3)
+
+### Strategy Pattern
+
+<img width="703" alt="image" src="https://github.com/user-attachments/assets/c6f5d974-f7a6-4814-a8aa-2d2c9312a5db">
+
+### Abstract Factory Pattern
+
+<img width="555" alt="image" src="https://github.com/user-attachments/assets/7dfc4497-daec-42a0-af7a-66a7b0399bc6">
+
+### Observer Pattern
+
+<img width="766" alt="image" src="https://github.com/user-attachments/assets/2271bf36-0464-458e-9a69-d1dec28b8981">
+
+### Facade Pattern
+
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/b1887395-9e67-4225-8f2b-1dd167656b3f">
+
+
+
+
+
+
+
